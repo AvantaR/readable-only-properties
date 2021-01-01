@@ -1,0 +1,15 @@
+{
+    "name": "avantar/readable-only-properties",
+    "description": "A little trait which blocks class properties setters.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Krzysztof Szala",
+            "email": "avantar@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    }
+}
